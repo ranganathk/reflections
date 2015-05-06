@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a git repository inside the file where git checks the status of all the files in this repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory has files which are both tracked and untracked while the staging area has only tracked files that are ready to be commited.
