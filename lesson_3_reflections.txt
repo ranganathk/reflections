@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would want to keep my repository remote most of the time so that it can be accessed easily by others. 
+I would surely keep a remote repository when I work on a project as a group. Moreover a remote repository 
+keeps my files save upto the last pushed change in case my computer crashes.
